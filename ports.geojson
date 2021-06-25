@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "ports",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "tara": "Romania", "nume": "Constanta" }, "geometry": { "type": "Point", "coordinates": [ 28.644260168778636, 44.176953800449951 ] } },
+{ "type": "Feature", "properties": { "tara": "Romania", "nume": "Eforie Nord" }, "geometry": { "type": "Point", "coordinates": [ 28.635190648681796, 44.065798348099875 ] } },
+{ "type": "Feature", "properties": { "tara": "Romania", "nume": "Eforie Sud" }, "geometry": { "type": "Point", "coordinates": [ 28.651515784856112, 44.025617366570202 ] } },
+{ "type": "Feature", "properties": { "tara": "Romania", "nume": "Costinesti" }, "geometry": { "type": "Point", "coordinates": [ 28.639519283273476, 43.956066024666988 ] } },
+{ "type": "Feature", "properties": { "tara": "Romania", "nume": "Navodari" }, "geometry": { "type": "Point", "coordinates": [ 28.652876212870641, 44.336542895434754 ] } }
+]
+}
